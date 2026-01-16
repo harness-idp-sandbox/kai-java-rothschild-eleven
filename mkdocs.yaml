@@ -1,0 +1,9 @@
+site_name: 'Documentation Template'
+repo_url: https://github.com/harness-idp-sandbox/kai-java-rothschild-eleven
+edit_uri: https://github.com/harness-idp-sandbox/kai-java-rothschild-eleven/blob/main/docs/index.md
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
